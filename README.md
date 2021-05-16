@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grata
 - 👀 I’m interested in coding, design, art...
-- 🌱 I’m currently learning React + getting better at CSS
+- 🌱 I’m currently mastering React + rocking CSS
 - 📫 How to reach me >> gmenadam@gmail.com :)
 
 <!---
